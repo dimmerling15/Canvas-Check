@@ -1,0 +1,193 @@
+{
+  "assignments": [
+    {
+      "id": "960355-11444271",
+      "title": "May Sustainability Challenge (AT-NR)",
+      "course": "Environ Sci Biology BX-Clowe-S2-2026",
+      "dueAt": "2026-06-01T03:59:59Z",
+      "dueText": "Sun, May 31, 11:59 PM",
+      "points": 10,
+      "submitted": true,
+      "url": "https://mcpsmd.instructure.com/courses/960355/assignments/11444271/submissions/31854",
+      "type": "assignment"
+    },
+    {
+      "id": "959724-11503004",
+      "title": "6.1.26 Costume & Props List",
+      "course": "Hon English 9B-Van Yuga-S2-2026",
+      "dueAt": "2026-06-01T15:59:59Z",
+      "dueText": "Mon, Jun 1, 11:59 AM",
+      "points": 0,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959724/assignments/11503004",
+      "type": "assignment"
+    },
+    {
+      "id": "960355-11495244",
+      "title": "Sit Spot Collage Due June 1",
+      "course": "Environ Sci Biology BX-Clowe-S2-2026",
+      "dueAt": "2026-06-01T16:00:00Z",
+      "dueText": "Mon, Jun 1, 12:00 PM",
+      "points": 16,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/960355/assignments/11495244",
+      "type": "assignment"
+    },
+    {
+      "id": "959675-11294226",
+      "title": "💡(NR)2.6__IR_Pret/Imp Pract: Hotel Savoy",
+      "course": "Spanish 2B-Sibrian-S2-2026",
+      "dueAt": "2026-06-01T18:30:00Z",
+      "dueText": "Mon, Jun 1, 2:30 PM",
+      "points": 5,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959675/assignments/11294226",
+      "type": "assignment"
+    },
+    {
+      "id": "959724-11025504",
+      "title": "(R) R & J Scene Script",
+      "course": "Hon English 9B-Van Yuga-S2-2026",
+      "dueAt": "2026-06-02T03:59:59Z",
+      "dueText": "Mon, Jun 1, 11:59 PM",
+      "points": 30,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959724/assignments/11025504",
+      "type": "assignment"
+    },
+    {
+      "id": "959675-11294223",
+      "title": "💡(NR) 2.6_PW_JuegoDePráctica",
+      "course": "Spanish 2B-Sibrian-S2-2026",
+      "dueAt": "2026-06-02T18:30:00Z",
+      "dueText": "Tue, Jun 2, 2:30 PM",
+      "points": 8,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959675/assignments/11294223",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326507",
+      "title": "PP: Seminar Quiz and Worksheet",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-03T19:00:00Z",
+      "dueText": "Wed, Jun 3, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326507",
+      "type": "assignment"
+    },
+    {
+      "id": "960227-11485521",
+      "title": "(NR) Projectile Motion #1",
+      "course": "Prin of Engineering B-Lee-S2-2026",
+      "dueAt": "2026-06-04T03:59:59Z",
+      "dueText": "Wed, Jun 3, 11:59 PM",
+      "points": 15,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/960227/assignments/11485521",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326516",
+      "title": "AT: USC Presentation",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-05T19:00:00Z",
+      "dueText": "Fri, Jun 5, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326516/submissions/31854",
+      "type": "assignment"
+    },
+    {
+      "id": "960227-11485530",
+      "title": "(NR) Projectile Motion #2",
+      "course": "Prin of Engineering B-Lee-S2-2026",
+      "dueAt": "2026-06-06T03:59:59Z",
+      "dueText": "Fri, Jun 5, 11:59 PM",
+      "points": 15,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/960227/assignments/11485530",
+      "type": "assignment"
+    },
+    {
+      "id": "959724-11476286",
+      "title": "(NR) R&J Performance Task",
+      "course": "Hon English 9B-Van Yuga-S2-2026",
+      "dueAt": "2026-06-09T03:59:59Z",
+      "dueText": "Mon, Jun 8, 11:59 PM",
+      "points": 30,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959724/assignments/11476286",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326525",
+      "title": "PP: Video Storyboard and Script",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-10T19:00:00Z",
+      "dueText": "Wed, Jun 10, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326525",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326527",
+      "title": "PP: Peer Review - How to Seminar",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-10T19:00:00Z",
+      "dueText": "Wed, Jun 10, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326527",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326528",
+      "title": "AT: Video Presentation",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-12T19:00:00Z",
+      "dueText": "Fri, Jun 12, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326528",
+      "type": "assignment"
+    },
+    {
+      "id": "959913-11464278",
+      "title": "Unit 6 Reading Calender",
+      "course": "Hon US History B-Morrell-S2-2026",
+      "dueAt": "2026-06-17T03:59:59Z",
+      "dueText": "Tue, Jun 16, 11:59 PM",
+      "points": 0,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959913/assignments/11464278",
+      "type": "assignment"
+    },
+    {
+      "id": "959834-11326531",
+      "title": "AT: Triage Choices",
+      "course": "AP Seminar B-Glass-S2-2026",
+      "dueAt": "2026-06-17T19:00:00Z",
+      "dueText": "Wed, Jun 17, 3:00 PM",
+      "points": 10,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/959834/assignments/11326531",
+      "type": "assignment"
+    },
+    {
+      "id": "960355-11499723",
+      "title": "June Sustainability Challenge",
+      "course": "Environ Sci Biology BX-Clowe-S2-2026",
+      "dueAt": "2026-06-18T03:59:59Z",
+      "dueText": "Wed, Jun 17, 11:59 PM",
+      "points": 0,
+      "submitted": false,
+      "url": "https://mcpsmd.instructure.com/courses/960355/assignments/11499723",
+      "type": "assignment"
+    }
+  ],
+  "lastChecked": "2026-05-31T22:34:46.510Z",
+  "lastError": null
+}
